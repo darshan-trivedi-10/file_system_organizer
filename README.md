@@ -25,7 +25,7 @@
 
 ## Use this Command 🤖
 List of All Command : 
-- To Oraganize file in you folder go to the directory in you local machine open terminal and run this command **`fso organize`**
+- To Oraganize file in you folder go to the directory in you local machine open terminal and run this </br>command **`fso organize`**
 - To view you folder and sub folder deatils go to the directory in you local machine open terminal and run this </br> command **`fso tree`**
 - For help and view command list run this command in your terminal **`fso help`**
 
