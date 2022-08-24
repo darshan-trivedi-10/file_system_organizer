@@ -34,8 +34,6 @@ List of All Command :
 
 Feel free to contact me on [LinkedIn](https://www.linkedin.com/in/darshan-trivedi-a6828b1ba/) 
 
-[![Instagram](https://img.shields.io/badge/Instagram-follow-purple.svg?logo=instagram&logoColor=white)](https://www.instagram.com/d_b_t_03/)
-
 ---------
 
 ```javascript
